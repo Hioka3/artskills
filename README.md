@@ -1,3 +1,6 @@
+Сегодня я решала загадки, оказалось я не такая умная как думала...
+
+
 ![image](https://github.com/user-attachments/assets/3f47fa97-bc58-4f18-8791-a5bdc43553ad)
 
 
