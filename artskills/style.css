@@ -101,8 +101,10 @@ background: black;
     background: #D9D9D9;
     border-radius: 30px;
     margin-bottom: 15px;
-    font-weight: 300px; 
+    font-weight: 500px; 
+    font-size: 25px;
     word-wrap: break-word;
+    padding-left: 25px;
 }
 .inputcontainer{
     width: 460px;
